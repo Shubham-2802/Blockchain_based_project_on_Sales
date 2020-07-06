@@ -1,2 +1,2 @@
-# my_first_blockchain
-Just created my first blockchain currency shubhcoin as a part of learning project by decentralizing 3 nodes and including transactions in it.
+# Deployed my cryptocurrency on Sales using Blockchain
+Just created my first blockchain currency shubhcoin as a part of learning project by decentralizing 3 nodes and including transactions in it.Also Created my first smart contract wherein I introduced my Blockchain currency Shubhcoin for sales, to be bought and sold by customers. I used Ganache(Ethereum client which one can use for Ethereum development) to interact with the blocks and transactions within the blockchain, and deployed the smart contract on ethereum based wallet,to check the functionality of written contract.
